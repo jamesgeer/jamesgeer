@@ -9,9 +9,9 @@ As for coding, I'm learning Java and Spring Boot.
 
 ーーー
 
-ようこそへ僕のGITHUBページ！
-僕はKent大学での一年生大学生、計算機科学が専攻です。
-日本語やコーディングを学ぶことが好きです。 
+ようこそへ僕のGITHUBページ！<br>
+僕はKent大学での一年生大学生、計算機科学が専攻です。<br>
+日本語やコーディングを学ぶことが好きです。 <br>
 コーディングにとって、今JavaとSpring Bootを学んでいます。
 
 ーーー
