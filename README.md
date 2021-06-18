@@ -1,19 +1,12 @@
-- 👋 Hi, I’m @jamesgeer
-- 👀 I’m interested in Japan, coding and coffee.
-- 🌱 I’m currently learning Java, Spring Boot and Angular.
-
 Welcome to my Github page!<br>
-I'm a first year student at the University of Kent, studying Computer Science.<br>
-I enjoy studying Japanese and Coding.<br>
-I'm currently learning Java and Spring Boot with Angular.
+I'm a second year student at the University of Kent, studying Computer Science.<br>
+I enjoy studying Japanese and I'm currently learning React.<br>
 
 ーーー
 
-僕のGITHUBページへようこそ！<br>
-僕はKent大学での一年生大学生、計算機科学が専攻です。<br>
-日本語やコーディングを学ぶことが好きです。 <br>
-コーディングにとって、今JavaとSpring Bootを学んでいます。
-
+GITHUBページへようこそ！<br>
+Kent大学での二年生大学生、計算機科学が専攻です。<br>
+日本語を勉強するのが好きで、現在Reactを学んでいます 
 
 
 <!---
