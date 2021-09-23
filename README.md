@@ -10,8 +10,9 @@ Kent大学での二年生大学生、計算機科学が専攻です。<br>
 
 <hr>
 
-<strong>🎉 My first open source contribution!</strong> 🎉<br>
-2021/09/22 - Repo: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - Issue: [Fix for issue #43517](https://github.com/freeCodeCamp/freeCodeCamp/pull/43524)
+<strong>My open source contributions!</strong><br>
+1. `2021/09/22` [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) : [example css code does not demonstrate hover animation](https://github.com/freeCodeCamp/freeCodeCamp/pull/43524).
+2. `2021/09/23` [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) : [allow optional final css semi-colon](https://github.com/freeCodeCamp/freeCodeCamp/pull/43545).
 
 <!---
 jamesgeer/jamesgeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
