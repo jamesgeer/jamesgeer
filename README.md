@@ -16,7 +16,7 @@ Kent大学での二年生大学生、計算機科学が専攻です。<br>
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgeer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesgeer&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jamesgeer/jamesgeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
