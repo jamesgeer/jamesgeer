@@ -1,5 +1,5 @@
 
-I'm a second year student at the University of Kent, studying Computer Science.<br>
+I am a second-year Computer Science student at the University of Kent, with an interest in backend development for the web.<br>
 
 <hr>
 
