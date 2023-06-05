@@ -7,5 +7,5 @@
 - `JavaScript` [Jisho Lookup](https://github.com/jamesgeer/jisho-lookup)
 
 ## Open Source Contributions
-- `CSS` [freeCodeCamp: example css code does not demonstrate hover animation](https://github.com/freeCodeCamp/freeCodeCamp/pull/43524)
 -  `JavaScript` [freecodeCamp: allow optional final css semi-colon](https://github.com/freeCodeCamp/freeCodeCamp/pull/43545)
+- `CSS` [freeCodeCamp: example css code does not demonstrate hover animation](https://github.com/freeCodeCamp/freeCodeCamp/pull/43524)
